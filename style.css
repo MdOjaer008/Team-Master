@@ -18,7 +18,19 @@ h4{
     font-weight: 700;
     color:blue;
 }
-
+.image{
+    float: left;
+    width: 33.33%;
+    padding: 10px;    
+  }
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+* {
+    box-sizing: border-box;
+  }
 body{
     font-family: 'Josefin Sans', sans-serif;
 }
