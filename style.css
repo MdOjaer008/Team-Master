@@ -40,8 +40,3 @@ body{
 #ojaer{
     background-image: linear-gradient(45deg, blue, rgb(72, 255, 0));
 }
-.logo{
-    width: 40%;
-    float: left;
-    padding: 5%;
-}
